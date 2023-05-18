@@ -28,8 +28,10 @@ This script allows you to convert a Spotify playlist to a YouTube playlist.
 1. Authenticate with the Spotify API by setting the following environment variables:
 
    ```
-   export SPOTIPY_CLIENT_ID='your_client_id'
-   export SPOTIPY_CLIENT_SECRET='your_client_secret'
+   export SPOTIPY_CLIENT_ID=
+   export SPOTIPY_CLIENT_SECRET=
+   export SPOTIPY_REDIRECT_URI=http://localhost:8000/callback
+   export YOUTUBE_TOKEN=
    ```
 2. Authenticate with the YouTube API by following the instructions in the script.
 3. Run the script:

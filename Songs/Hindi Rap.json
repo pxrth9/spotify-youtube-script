@@ -1,1 +1,64 @@
-[{"Saza-E-Maut": "KR$NA"}, {"City Slums (feat. DIVINE)": "Raja Kumari"}, {"": ""}, {"Boht Hard": "Emiway Bantai"}, {"Gandhi Money": "DIVINE"}, {"Emiway-Samajh Mein Aaya Kya?": "Emiway Bantai"}, {"Emiway (Out of Sampark)": "Emiway Bantai"}, {"Kadak Ban": "Emiway Bantai"}, {"Man Down (feat. Haile Supreme & DJ LYAN)": "Anik Khan"}, {"Freeverse Feast 2": "Emiway Bantai"}, {"100 Kadam Pe": "Emiway Bantai"}, {"Asal Hustle": "Naezy"}, {"Kaam 25 - Sacred Games": "DIVINE"}, {"Mirchi": "DIVINE"}, {"": ""}, {"": ""}, {"": ""}, {"Wow": "Bali"}, {"Roots (feat. Raja Kumari)": "DIVINE"}, {"Paagal": "Badshah"}, {"She Move It Like": "Badshah"}, {"Freeverse Feast": "KR$NA"}, {"Daru Badnaam": "Param Singh"}, {"Farak": "DIVINE"}, {"Roll Up": "KR$NA"}, {"Ring Ring": "Emiway Bantai"}, {"Kohinoor": "DIVINE"}, {"No Competition": "Jass Manak"}, {"Saath Ya Khilaaf": "KR$NA"}, {"Villain": "KR$NA"}, {"East Side Flow": "Sidhu Moose Wala"}, {"Angaar": "Ikka"}, {"Famous": "Sidhu Moose Wala"}, {"Bad Girl": "Mickey Singh"}, {"Blue Eyes": "Yo Yo Honey Singh"}, {"": ""}, {"": ""}, {"Bass": "Bali"}, {"Rada": "Loka"}, {"Baaton Ka WAZAN": "\u0938\u0902\u0924Taanu"}, {"Gooda": "Fotty Seven"}, {"Seedha Makeover": "KR$NA"}, {"Zindagi": "Ajey Nagar (CarryMinati)"}, {"Jump": "Bali"}, {"Black Sheep": "Raftaar"}, {"Trap Munde": "Ikka"}, {"Bandana Gang": "DIVINE"}]
+[
+  { "sp_track_name": "Saza-E-Maut", "sp_track_artist": "KR$NA" },
+  {
+    "sp_track_name": "City Slums (feat. DIVINE)",
+    "sp_track_artist": "Raja Kumari"
+  },
+  { "sp_track_name": "", "sp_track_artist": "" },
+  { "sp_track_name": "Boht Hard", "sp_track_artist": "Emiway Bantai" },
+  { "sp_track_name": "Gandhi Money", "sp_track_artist": "DIVINE" },
+  {
+    "sp_track_name": "Emiway-Samajh Mein Aaya Kya?",
+    "sp_track_artist": "Emiway Bantai"
+  },
+  {
+    "sp_track_name": "Emiway (Out of Sampark)",
+    "sp_track_artist": "Emiway Bantai"
+  },
+  { "sp_track_name": "Kadak Ban", "sp_track_artist": "Emiway Bantai" },
+  {
+    "sp_track_name": "Man Down (feat. Haile Supreme & DJ LYAN)",
+    "sp_track_artist": "Anik Khan"
+  },
+  { "sp_track_name": "Freeverse Feast 2", "sp_track_artist": "Emiway Bantai" },
+  { "sp_track_name": "100 Kadam Pe", "sp_track_artist": "Emiway Bantai" },
+  { "sp_track_name": "Asal Hustle", "sp_track_artist": "Naezy" },
+  { "sp_track_name": "Kaam 25 - Sacred Games", "sp_track_artist": "DIVINE" },
+  { "sp_track_name": "Mirchi", "sp_track_artist": "DIVINE" },
+  { "sp_track_name": "", "sp_track_artist": "" },
+  { "sp_track_name": "", "sp_track_artist": "" },
+  { "sp_track_name": "", "sp_track_artist": "" },
+  { "sp_track_name": "Wow", "sp_track_artist": "Bali" },
+  { "sp_track_name": "Roots (feat. Raja Kumari)", "sp_track_artist": "DIVINE" },
+  { "sp_track_name": "Paagal", "sp_track_artist": "Badshah" },
+  { "sp_track_name": "She Move It Like", "sp_track_artist": "Badshah" },
+  { "sp_track_name": "Freeverse Feast", "sp_track_artist": "KR$NA" },
+  { "sp_track_name": "Daru Badnaam", "sp_track_artist": "Param Singh" },
+  { "sp_track_name": "Farak", "sp_track_artist": "DIVINE" },
+  { "sp_track_name": "Roll Up", "sp_track_artist": "KR$NA" },
+  { "sp_track_name": "Ring Ring", "sp_track_artist": "Emiway Bantai" },
+  { "sp_track_name": "Kohinoor", "sp_track_artist": "DIVINE" },
+  { "sp_track_name": "No Competition", "sp_track_artist": "Jass Manak" },
+  { "sp_track_name": "Saath Ya Khilaaf", "sp_track_artist": "KR$NA" },
+  { "sp_track_name": "Villain", "sp_track_artist": "KR$NA" },
+  { "sp_track_name": "East Side Flow", "sp_track_artist": "Sidhu Moose Wala" },
+  { "sp_track_name": "Angaar", "sp_track_artist": "Ikka" },
+  { "sp_track_name": "Famous", "sp_track_artist": "Sidhu Moose Wala" },
+  { "sp_track_name": "Bad Girl", "sp_track_artist": "Mickey Singh" },
+  { "sp_track_name": "Blue Eyes", "sp_track_artist": "Yo Yo Honey Singh" },
+  { "sp_track_name": "", "sp_track_artist": "" },
+  { "sp_track_name": "", "sp_track_artist": "" },
+  { "sp_track_name": "Bass", "sp_track_artist": "Bali" },
+  { "sp_track_name": "Rada", "sp_track_artist": "Loka" },
+  {
+    "sp_track_name": "Baaton Ka WAZAN",
+    "sp_track_artist": "\u0938\u0902\u0924Taanu"
+  },
+  { "sp_track_name": "Gooda", "sp_track_artist": "Fotty Seven" },
+  { "sp_track_name": "Seedha Makeover", "sp_track_artist": "KR$NA" },
+  { "sp_track_name": "Zindagi", "sp_track_artist": "Ajey Nagar (CarryMinati)" },
+  { "sp_track_name": "Jump", "sp_track_artist": "Bali" },
+  { "sp_track_name": "Black Sheep", "sp_track_artist": "Raftaar" },
+  { "sp_track_name": "Trap Munde", "sp_track_artist": "Ikka" },
+  { "sp_track_name": "Bandana Gang", "sp_track_artist": "DIVINE" }
+]
