@@ -1,51 +1,120 @@
 [
-  { "sp_track_name": "PILLOWTALK", "sp_track_artist": "ZAYN" },
-  { "sp_track_name": "Jealous - Remix", "sp_track_artist": "Nick Jonas" },
-  { "sp_track_name": "Clarity", "sp_track_artist": "Zedd" },
+  {
+    "sp_track_name": "PILLOWTALK",
+    "sp_track_artist": "ZAYN"
+  },
+  {
+    "sp_track_name": "Jealous - Remix",
+    "sp_track_artist": "Nick Jonas"
+  },
+  {
+    "sp_track_name": "Clarity",
+    "sp_track_artist": "Zedd"
+  },
   {
     "sp_track_name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
     "sp_track_artist": "Ellie Goulding"
   },
-  { "sp_track_name": "Chandelier", "sp_track_artist": "Sia" },
-  { "sp_track_name": "Hello", "sp_track_artist": "Adele" },
-  { "sp_track_name": "Photograph", "sp_track_artist": "Ed Sheeran" },
+  {
+    "sp_track_name": "Chandelier",
+    "sp_track_artist": "Sia"
+  },
+  {
+    "sp_track_name": "Hello",
+    "sp_track_artist": "Adele"
+  },
+  {
+    "sp_track_name": "Photograph",
+    "sp_track_artist": "Ed Sheeran"
+  },
   {
     "sp_track_name": "I Was Made For Loving You",
     "sp_track_artist": "Tori Kelly"
   },
-  { "sp_track_name": "Tenerife Sea", "sp_track_artist": "Ed Sheeran" },
-  { "sp_track_name": "Lay Me Down", "sp_track_artist": "Sam Smith" },
-  { "sp_track_name": "I'm Not The Only One", "sp_track_artist": "Sam Smith" },
-  { "sp_track_name": "Wrecking Ball", "sp_track_artist": "Miley Cyrus" },
+  {
+    "sp_track_name": "Tenerife Sea",
+    "sp_track_artist": "Ed Sheeran"
+  },
+  {
+    "sp_track_name": "Lay Me Down",
+    "sp_track_artist": "Sam Smith"
+  },
+  {
+    "sp_track_name": "I'm Not The Only One",
+    "sp_track_artist": "Sam Smith"
+  },
+  {
+    "sp_track_name": "Wrecking Ball",
+    "sp_track_artist": "Miley Cyrus"
+  },
   {
     "sp_track_name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
     "sp_track_artist": "ZAYN"
   },
-  { "sp_track_name": "Sorry Not Sorry", "sp_track_artist": "Demi Lovato" },
-  { "sp_track_name": "That's What I Like", "sp_track_artist": "Bruno Mars" },
-  { "sp_track_name": "Can't Feel My Face", "sp_track_artist": "The Weeknd" },
+  {
+    "sp_track_name": "Sorry Not Sorry",
+    "sp_track_artist": "Demi Lovato"
+  },
+  {
+    "sp_track_name": "That's What I Like",
+    "sp_track_artist": "Bruno Mars"
+  },
+  {
+    "sp_track_name": "Can't Feel My Face",
+    "sp_track_artist": "The Weeknd"
+  },
   {
     "sp_track_name": "I Took A Pill In Ibiza - Seeb Remix",
     "sp_track_artist": "Mike Posner"
   },
-  { "sp_track_name": "Beautiful Now", "sp_track_artist": "Zedd" },
-  { "sp_track_name": "24K Magic", "sp_track_artist": "Bruno Mars" },
-  { "sp_track_name": "What Do You Mean?", "sp_track_artist": "Justin Bieber" },
+  {
+    "sp_track_name": "Beautiful Now",
+    "sp_track_artist": "Zedd"
+  },
+  {
+    "sp_track_name": "24K Magic",
+    "sp_track_artist": "Bruno Mars"
+  },
+  {
+    "sp_track_name": "What Do You Mean?",
+    "sp_track_artist": "Justin Bieber"
+  },
   {
     "sp_track_name": "Where Are \u00dc Now (with Justin Bieber)",
     "sp_track_artist": "Jack \u00dc"
   },
-  { "sp_track_name": "Company", "sp_track_artist": "Justin Bieber" },
-  { "sp_track_name": "Deja Vu", "sp_track_artist": "Post Malone" },
-  { "sp_track_name": "Congratulations", "sp_track_artist": "Post Malone" },
+  {
+    "sp_track_name": "Company",
+    "sp_track_artist": "Justin Bieber"
+  },
+  {
+    "sp_track_name": "Deja Vu",
+    "sp_track_artist": "Post Malone"
+  },
+  {
+    "sp_track_name": "Congratulations",
+    "sp_track_artist": "Post Malone"
+  },
   {
     "sp_track_name": "Psycho (feat. Ty Dolla $ign)",
     "sp_track_artist": "Post Malone"
   },
-  { "sp_track_name": "Pray For Me", "sp_track_artist": "The Weeknd" },
-  { "sp_track_name": "How Long", "sp_track_artist": "Charlie Puth" },
-  { "sp_track_name": "Happier", "sp_track_artist": "Marshmello" },
-  { "sp_track_name": "Wolves", "sp_track_artist": "Selena Gomez" },
+  {
+    "sp_track_name": "Pray For Me",
+    "sp_track_artist": "The Weeknd"
+  },
+  {
+    "sp_track_name": "How Long",
+    "sp_track_artist": "Charlie Puth"
+  },
+  {
+    "sp_track_name": "Happier",
+    "sp_track_artist": "Marshmello"
+  },
+  {
+    "sp_track_name": "Wolves",
+    "sp_track_artist": "Selena Gomez"
+  },
   {
     "sp_track_name": "It Ain't Me (with Selena Gomez)",
     "sp_track_artist": "Kygo"
@@ -58,14 +127,38 @@
     "sp_track_name": "Don't Let Me Down (feat. Daya)",
     "sp_track_artist": "The Chainsmokers"
   },
-  { "sp_track_name": "Never Forget You", "sp_track_artist": "Zara Larsson" },
-  { "sp_track_name": "Here", "sp_track_artist": "Alessia Cara" },
-  { "sp_track_name": "Same Old Love", "sp_track_artist": "Selena Gomez" },
-  { "sp_track_name": "I Want You To Know", "sp_track_artist": "Zedd" },
-  { "sp_track_name": "Good For You", "sp_track_artist": "Selena Gomez" },
-  { "sp_track_name": "Needed Me", "sp_track_artist": "Rihanna" },
-  { "sp_track_name": "Stitches", "sp_track_artist": "Shawn Mendes" },
-  { "sp_track_name": "One Call Away", "sp_track_artist": "Charlie Puth" },
+  {
+    "sp_track_name": "Never Forget You",
+    "sp_track_artist": "Zara Larsson"
+  },
+  {
+    "sp_track_name": "Here",
+    "sp_track_artist": "Alessia Cara"
+  },
+  {
+    "sp_track_name": "Same Old Love",
+    "sp_track_artist": "Selena Gomez"
+  },
+  {
+    "sp_track_name": "I Want You To Know",
+    "sp_track_artist": "Zedd"
+  },
+  {
+    "sp_track_name": "Good For You",
+    "sp_track_artist": "Selena Gomez"
+  },
+  {
+    "sp_track_name": "Needed Me",
+    "sp_track_artist": "Rihanna"
+  },
+  {
+    "sp_track_name": "Stitches",
+    "sp_track_artist": "Shawn Mendes"
+  },
+  {
+    "sp_track_name": "One Call Away",
+    "sp_track_artist": "Charlie Puth"
+  },
   {
     "sp_track_name": "Cold Water (feat. Justin Bieber & M\u00d8)",
     "sp_track_artist": "Major Lazer"
@@ -74,7 +167,10 @@
     "sp_track_name": "I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",
     "sp_track_artist": "DJ Khaled"
   },
-  { "sp_track_name": "Despacito - Remix", "sp_track_artist": "Luis Fonsi" },
+  {
+    "sp_track_name": "Despacito - Remix",
+    "sp_track_artist": "Luis Fonsi"
+  },
   {
     "sp_track_name": "Shape of You (feat. Zion & Lennox) - Latin Remix",
     "sp_track_artist": "Ed Sheeran"
@@ -83,8 +179,14 @@
     "sp_track_name": "We Don't Talk Anymore (feat. Selena Gomez)",
     "sp_track_artist": "Charlie Puth"
   },
-  { "sp_track_name": "Hands To Myself", "sp_track_artist": "Selena Gomez" },
-  { "sp_track_name": "Stay", "sp_track_artist": "Zedd" },
+  {
+    "sp_track_name": "Hands To Myself",
+    "sp_track_artist": "Selena Gomez"
+  },
+  {
+    "sp_track_name": "Stay",
+    "sp_track_artist": "Zedd"
+  },
   {
     "sp_track_name": "All The Stars (with SZA)",
     "sp_track_artist": "Kendrick Lamar"
@@ -93,30 +195,90 @@
     "sp_track_name": "Finesse - Remix; feat. Cardi B",
     "sp_track_artist": "Bruno Mars"
   },
-  { "sp_track_name": "Questions", "sp_track_artist": "Chris Brown" },
-  { "sp_track_name": "Location", "sp_track_artist": "Khalid" },
-  { "sp_track_name": "I Like Me Better", "sp_track_artist": "Lauv" },
-  { "sp_track_name": "Closer", "sp_track_artist": "The Chainsmokers" },
-  { "sp_track_name": "Attention", "sp_track_artist": "Charlie Puth" },
-  { "sp_track_name": "Don't Wanna Know", "sp_track_artist": "Maroon 5" },
-  { "sp_track_name": "Drag Me Down", "sp_track_artist": "One Direction" },
-  { "sp_track_name": "Classic", "sp_track_artist": "MKTO" },
-  { "sp_track_name": "Superheroes", "sp_track_artist": "The Script" },
-  { "sp_track_name": "Me And My Broken Heart", "sp_track_artist": "Rixton" },
-  { "sp_track_name": "The Middle", "sp_track_artist": "Zedd" },
-  { "sp_track_name": "do re mi", "sp_track_artist": "blackbear" },
-  { "sp_track_name": "44 More", "sp_track_artist": "Logic" },
+  {
+    "sp_track_name": "Questions",
+    "sp_track_artist": "Chris Brown"
+  },
+  {
+    "sp_track_name": "Location",
+    "sp_track_artist": "Khalid"
+  },
+  {
+    "sp_track_name": "I Like Me Better",
+    "sp_track_artist": "Lauv"
+  },
+  {
+    "sp_track_name": "Closer",
+    "sp_track_artist": "The Chainsmokers"
+  },
+  {
+    "sp_track_name": "Attention",
+    "sp_track_artist": "Charlie Puth"
+  },
+  {
+    "sp_track_name": "Don't Wanna Know",
+    "sp_track_artist": "Maroon 5"
+  },
+  {
+    "sp_track_name": "Drag Me Down",
+    "sp_track_artist": "One Direction"
+  },
+  {
+    "sp_track_name": "Classic",
+    "sp_track_artist": "MKTO"
+  },
+  {
+    "sp_track_name": "Superheroes",
+    "sp_track_artist": "The Script"
+  },
+  {
+    "sp_track_name": "Me And My Broken Heart",
+    "sp_track_artist": "Rixton"
+  },
+  {
+    "sp_track_name": "The Middle",
+    "sp_track_artist": "Zedd"
+  },
+  {
+    "sp_track_name": "do re mi",
+    "sp_track_artist": "blackbear"
+  },
+  {
+    "sp_track_name": "44 More",
+    "sp_track_artist": "Logic"
+  },
   {
     "sp_track_name": "Earned It (Fifty Shades Of Grey)",
     "sp_track_artist": "The Weeknd"
   },
-  { "sp_track_name": "One Dance", "sp_track_artist": "Drake" },
-  { "sp_track_name": "Starboy", "sp_track_artist": "The Weeknd" },
-  { "sp_track_name": "hot girl bummer", "sp_track_artist": "blackbear" },
-  { "sp_track_name": "Diamonds", "sp_track_artist": "Rihanna" },
-  { "sp_track_name": "Where Have You Been", "sp_track_artist": "Rihanna" },
-  { "sp_track_name": "Umbrella", "sp_track_artist": "Rihanna" },
-  { "sp_track_name": "FourFiveSeconds", "sp_track_artist": "Rihanna" },
+  {
+    "sp_track_name": "One Dance",
+    "sp_track_artist": "Drake"
+  },
+  {
+    "sp_track_name": "Starboy",
+    "sp_track_artist": "The Weeknd"
+  },
+  {
+    "sp_track_name": "hot girl bummer",
+    "sp_track_artist": "blackbear"
+  },
+  {
+    "sp_track_name": "Diamonds",
+    "sp_track_artist": "Rihanna"
+  },
+  {
+    "sp_track_name": "Where Have You Been",
+    "sp_track_artist": "Rihanna"
+  },
+  {
+    "sp_track_name": "Umbrella",
+    "sp_track_artist": "Rihanna"
+  },
+  {
+    "sp_track_name": "FourFiveSeconds",
+    "sp_track_artist": "Rihanna"
+  },
   {
     "sp_track_name": "Strip That Down (feat. Quavo)",
     "sp_track_artist": "Liam Payne"
@@ -125,7 +287,10 @@
     "sp_track_name": "No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)",
     "sp_track_artist": "DJ Khaled"
   },
-  { "sp_track_name": "Better Now", "sp_track_artist": "Post Malone" },
+  {
+    "sp_track_name": "Better Now",
+    "sp_track_artist": "Post Malone"
+  },
   {
     "sp_track_name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
     "sp_track_artist": "Jason Derulo"
@@ -134,19 +299,34 @@
     "sp_track_name": "Girls Like You (feat. Cardi B) - Cardi B Version",
     "sp_track_artist": "Maroon 5"
   },
-  { "sp_track_name": "Sugar", "sp_track_artist": "Maroon 5" },
+  {
+    "sp_track_name": "Sugar",
+    "sp_track_artist": "Maroon 5"
+  },
   {
     "sp_track_name": "What Lovers Do (feat. SZA)",
     "sp_track_artist": "Maroon 5"
   },
-  { "sp_track_name": "Maps", "sp_track_artist": "Maroon 5" },
-  { "sp_track_name": "Cold", "sp_track_artist": "Maroon 5" },
-  { "sp_track_name": "Payphone", "sp_track_artist": "Maroon 5" },
+  {
+    "sp_track_name": "Maps",
+    "sp_track_artist": "Maroon 5"
+  },
+  {
+    "sp_track_name": "Cold",
+    "sp_track_artist": "Maroon 5"
+  },
+  {
+    "sp_track_name": "Payphone",
+    "sp_track_artist": "Maroon 5"
+  },
   {
     "sp_track_name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
     "sp_track_artist": "Maroon 5"
   },
-  { "sp_track_name": "Girls Like You", "sp_track_artist": "Maroon 5" },
+  {
+    "sp_track_name": "Girls Like You",
+    "sp_track_artist": "Maroon 5"
+  },
   {
     "sp_track_name": "Champion (feat. Travis Scott)",
     "sp_track_artist": "NAV"
@@ -155,22 +335,46 @@
     "sp_track_name": "Powerglide (feat. Juicy J) - From SR3MM",
     "sp_track_artist": "Rae Sremmurd"
   },
-  { "sp_track_name": "Animals", "sp_track_artist": "Maroon 5" },
-  { "sp_track_name": "This Summer", "sp_track_artist": "Maroon 5" },
+  {
+    "sp_track_name": "Animals",
+    "sp_track_artist": "Maroon 5"
+  },
+  {
+    "sp_track_name": "This Summer",
+    "sp_track_artist": "Maroon 5"
+  },
   {
     "sp_track_name": "Goodbyes (feat. Young Thug)",
     "sp_track_artist": "Post Malone"
   },
-  { "sp_track_name": "Believer", "sp_track_artist": "Imagine Dragons" },
-  { "sp_track_name": "Thunder", "sp_track_artist": "Imagine Dragons" },
-  { "sp_track_name": "Makes Me Wonder", "sp_track_artist": "Maroon 5" },
-  { "sp_track_name": "Cake By The Ocean", "sp_track_artist": "DNCE" },
+  {
+    "sp_track_name": "Believer",
+    "sp_track_artist": "Imagine Dragons"
+  },
+  {
+    "sp_track_name": "Thunder",
+    "sp_track_artist": "Imagine Dragons"
+  },
+  {
+    "sp_track_name": "Makes Me Wonder",
+    "sp_track_artist": "Maroon 5"
+  },
+  {
+    "sp_track_name": "Cake By The Ocean",
+    "sp_track_artist": "DNCE"
+  },
   {
     "sp_track_name": "Whatever It Takes",
     "sp_track_artist": "Imagine Dragons"
   },
-  { "sp_track_name": "Shameless", "sp_track_artist": "The Weeknd" },
-  { "sp_track_name": "Centuries", "sp_track_artist": "Fall Out Boy" },
+  {
+    "sp_track_name": "Shameless",
+    "sp_track_artist": "The Weeknd"
+  },
+  {
+    "sp_track_name": "Centuries",
+    "sp_track_artist": "Fall Out Boy"
+  },
   {
     "sp_track_name": "Swimming Pools (Drank) - Extended Version",
     "sp_track_artist": "Kendrick Lamar"
@@ -183,22 +387,58 @@
     "sp_track_name": "Bad Liar \u2013 Stripped",
     "sp_track_artist": "Imagine Dragons"
   },
-  { "sp_track_name": "Walking The Wire", "sp_track_artist": "Imagine Dragons" },
-  { "sp_track_name": "Stressed Out", "sp_track_artist": "Twenty One Pilots" },
-  { "sp_track_name": "Ride", "sp_track_artist": "Twenty One Pilots" },
-  { "sp_track_name": "Heathens", "sp_track_artist": "Twenty One Pilots" },
-  { "sp_track_name": "Payphone", "sp_track_artist": "Maroon 5" },
-  { "sp_track_name": "Animals", "sp_track_artist": "Maroon 5" },
-  { "sp_track_name": "Hey, Soul Sister", "sp_track_artist": "Train" },
-  { "sp_track_name": "Phone Jumpin", "sp_track_artist": "Dave East" },
+  {
+    "sp_track_name": "Walking The Wire",
+    "sp_track_artist": "Imagine Dragons"
+  },
+  {
+    "sp_track_name": "Stressed Out",
+    "sp_track_artist": "Twenty One Pilots"
+  },
+  {
+    "sp_track_name": "Ride",
+    "sp_track_artist": "Twenty One Pilots"
+  },
+  {
+    "sp_track_name": "Heathens",
+    "sp_track_artist": "Twenty One Pilots"
+  },
+  {
+    "sp_track_name": "Payphone",
+    "sp_track_artist": "Maroon 5"
+  },
+  {
+    "sp_track_name": "Animals",
+    "sp_track_artist": "Maroon 5"
+  },
+  {
+    "sp_track_name": "Hey, Soul Sister",
+    "sp_track_artist": "Train"
+  },
+  {
+    "sp_track_name": "Phone Jumpin",
+    "sp_track_artist": "Dave East"
+  },
   {
     "sp_track_name": "3500 (feat. Future & 2 Chainz)",
     "sp_track_artist": "Travis Scott"
   },
-  { "sp_track_name": "Love Sosa", "sp_track_artist": "Chief Keef" },
-  { "sp_track_name": "Champions", "sp_track_artist": "Kanye West" },
-  { "sp_track_name": "No Role Modelz", "sp_track_artist": "J. Cole" },
-  { "sp_track_name": "Scary Nights", "sp_track_artist": "G-Eazy" },
+  {
+    "sp_track_name": "Love Sosa",
+    "sp_track_artist": "Chief Keef"
+  },
+  {
+    "sp_track_name": "Champions",
+    "sp_track_artist": "Kanye West"
+  },
+  {
+    "sp_track_name": "No Role Modelz",
+    "sp_track_artist": "J. Cole"
+  },
+  {
+    "sp_track_name": "Scary Nights",
+    "sp_track_artist": "G-Eazy"
+  },
   {
     "sp_track_name": "Maahi (From \"RAAZ - The Mystery Continues\")",
     "sp_track_artist": "Shaarib Toshi"
@@ -211,27 +451,54 @@
     "sp_track_name": "Chantaje (feat. Maluma) - El Dorado World Tour Live",
     "sp_track_artist": "Shakira"
   },
-  { "sp_track_name": "Gold", "sp_track_artist": "Kiiara" },
-  { "sp_track_name": "Love The Way You Lie", "sp_track_artist": "Eminem" },
-  { "sp_track_name": "Love Me", "sp_track_artist": "Lil Wayne" },
-  { "sp_track_name": "Black and Yellow", "sp_track_artist": "Wiz Khalifa" },
+  {
+    "sp_track_name": "Gold",
+    "sp_track_artist": "Kiiara"
+  },
+  {
+    "sp_track_name": "Love The Way You Lie",
+    "sp_track_artist": "Eminem"
+  },
+  {
+    "sp_track_name": "Love Me",
+    "sp_track_artist": "Lil Wayne"
+  },
+  {
+    "sp_track_name": "Black and Yellow",
+    "sp_track_artist": "Wiz Khalifa"
+  },
   {
     "sp_track_name": "Despacito (Featuring Daddy Yankee)",
     "sp_track_artist": "Luis Fonsi"
   },
-  { "sp_track_name": "Mine", "sp_track_artist": "Bazzi" },
+  {
+    "sp_track_name": "Mine",
+    "sp_track_artist": "Bazzi"
+  },
   {
     "sp_track_name": "Clout (feat. 21 Savage)",
     "sp_track_artist": "Ty Dolla $ign"
   },
-  { "sp_track_name": "Hard Work Pays Off", "sp_track_artist": "Future" },
-  { "sp_track_name": "Black Skinhead", "sp_track_artist": "Kanye West" },
-  { "sp_track_name": "The Box", "sp_track_artist": "Roddy Ricch" },
+  {
+    "sp_track_name": "Hard Work Pays Off",
+    "sp_track_artist": "Future"
+  },
+  {
+    "sp_track_name": "Black Skinhead",
+    "sp_track_artist": "Kanye West"
+  },
+  {
+    "sp_track_name": "The Box",
+    "sp_track_artist": "Roddy Ricch"
+  },
   {
     "sp_track_name": "Slippery (feat. Gucci Mane)",
     "sp_track_artist": "Migos"
   },
-  { "sp_track_name": "Walk It Talk It", "sp_track_artist": "Migos" },
+  {
+    "sp_track_name": "Walk It Talk It",
+    "sp_track_artist": "Migos"
+  },
   {
     "sp_track_name": "Sky Walker (feat. Travis Scott)",
     "sp_track_artist": "Miguel"
@@ -240,7 +507,10 @@
     "sp_track_name": "Bella Ciao - M\u00fasica Original de la Serie la Casa de Papel/ Money Heist",
     "sp_track_artist": "Manu Pilas"
   },
-  { "sp_track_name": "Mask Off", "sp_track_artist": "Future" },
+  {
+    "sp_track_name": "Mask Off",
+    "sp_track_artist": "Future"
+  },
   {
     "sp_track_name": "Go Off (with Lil Uzi Vert, Quavo & Travis Scott)",
     "sp_track_artist": "Lil Uzi Vert"
@@ -257,13 +527,34 @@
     "sp_track_name": "Ric Flair Drip (with Metro Boomin)",
     "sp_track_artist": "Offset"
   },
-  { "sp_track_name": "JAPAN", "sp_track_artist": "Famous Dex" },
-  { "sp_track_name": "Guala (feat. THIRTYRACK)", "sp_track_artist": "G-Eazy" },
-  { "sp_track_name": "Blinding Lights", "sp_track_artist": "The Weeknd" },
-  { "sp_track_name": "bad guy", "sp_track_artist": "Billie Eilish" },
-  { "sp_track_name": "We Can't Stop", "sp_track_artist": "Miley Cyrus" },
-  { "sp_track_name": "Yummy", "sp_track_artist": "Justin Bieber" },
-  { "sp_track_name": "Freaky", "sp_track_artist": "Tory Lanez" },
+  {
+    "sp_track_name": "JAPAN",
+    "sp_track_artist": "Famous Dex"
+  },
+  {
+    "sp_track_name": "Guala (feat. THIRTYRACK)",
+    "sp_track_artist": "G-Eazy"
+  },
+  {
+    "sp_track_name": "Blinding Lights",
+    "sp_track_artist": "The Weeknd"
+  },
+  {
+    "sp_track_name": "bad guy",
+    "sp_track_artist": "Billie Eilish"
+  },
+  {
+    "sp_track_name": "We Can't Stop",
+    "sp_track_artist": "Miley Cyrus"
+  },
+  {
+    "sp_track_name": "Yummy",
+    "sp_track_artist": "Justin Bieber"
+  },
+  {
+    "sp_track_name": "Freaky",
+    "sp_track_artist": "Tory Lanez"
+  },
   {
     "sp_track_name": "Somebody That I Used To Know",
     "sp_track_artist": "Gotye"
@@ -272,21 +563,42 @@
     "sp_track_name": "On My Level (feat. Too $hort)",
     "sp_track_artist": "Wiz Khalifa"
   },
-  { "sp_track_name": "Toosie Slide", "sp_track_artist": "Drake" },
-  { "sp_track_name": "Blinding Lights", "sp_track_artist": "The Weeknd" },
-  { "sp_track_name": "Ayy Macarena - Remix", "sp_track_artist": "Tyga" },
-  { "sp_track_name": "Ginza - Remix", "sp_track_artist": "J Balvin" },
+  {
+    "sp_track_name": "Toosie Slide",
+    "sp_track_artist": "Drake"
+  },
+  {
+    "sp_track_name": "Blinding Lights",
+    "sp_track_artist": "The Weeknd"
+  },
+  {
+    "sp_track_name": "Ayy Macarena - Remix",
+    "sp_track_artist": "Tyga"
+  },
+  {
+    "sp_track_name": "Ginza - Remix",
+    "sp_track_artist": "J Balvin"
+  },
   {
     "sp_track_name": "Spicy (feat. Post Malone)",
     "sp_track_artist": "Ty Dolla $ign"
   },
-  { "sp_track_name": "Drama (feat. Drake)", "sp_track_artist": "Roy Woods" },
+  {
+    "sp_track_name": "Drama (feat. Drake)",
+    "sp_track_artist": "Roy Woods"
+  },
   {
     "sp_track_name": "Peaches (feat. Daniel Caesar & Giveon)",
     "sp_track_artist": "Justin Bieber"
   },
-  { "sp_track_name": "9 5 . s o u t h", "sp_track_artist": "J. Cole" },
-  { "sp_track_name": "a m a r i", "sp_track_artist": "J. Cole" },
+  {
+    "sp_track_name": "9 5 . s o u t h",
+    "sp_track_artist": "J. Cole"
+  },
+  {
+    "sp_track_name": "a m a r i",
+    "sp_track_artist": "J. Cole"
+  },
   {
     "sp_track_name": "m y . l i f e (with 21 Savage & Morray)",
     "sp_track_artist": "J. Cole"
@@ -311,13 +623,22 @@
     "sp_track_name": "l e t . g o . m y . h a n d (with Bas & 6LACK)",
     "sp_track_artist": "J. Cole"
   },
-  { "sp_track_name": "i n t e r l u d e", "sp_track_artist": "J. Cole" },
+  {
+    "sp_track_name": "i n t e r l u d e",
+    "sp_track_artist": "J. Cole"
+  },
   {
     "sp_track_name": "t h e . c l i m b . b a c k",
     "sp_track_artist": "J. Cole"
   },
-  { "sp_track_name": "c l o s e", "sp_track_artist": "J. Cole" },
-  { "sp_track_name": "Let You Down", "sp_track_artist": "NF" },
+  {
+    "sp_track_name": "c l o s e",
+    "sp_track_artist": "J. Cole"
+  },
+  {
+    "sp_track_name": "Let You Down",
+    "sp_track_artist": "NF"
+  },
   {
     "sp_track_name": "h u n g e r . o n . h i l l s i d e (with Bas)",
     "sp_track_artist": "J. Cole"
@@ -330,13 +651,22 @@
     "sp_track_name": "Levitating (feat. DaBaby)",
     "sp_track_artist": "Dua Lipa"
   },
-  { "sp_track_name": "Bad Habits", "sp_track_artist": "Ed Sheeran" },
-  { "sp_track_name": "good 4 u", "sp_track_artist": "Olivia Rodrigo" },
+  {
+    "sp_track_name": "Bad Habits",
+    "sp_track_artist": "Ed Sheeran"
+  },
+  {
+    "sp_track_name": "good 4 u",
+    "sp_track_artist": "Olivia Rodrigo"
+  },
   {
     "sp_track_name": "Tujh Mein Rab Dikhta Hai",
     "sp_track_artist": "Roop Kumar Rathod"
   },
-  { "sp_track_name": "Work Out", "sp_track_artist": "J. Cole" },
+  {
+    "sp_track_name": "Work Out",
+    "sp_track_artist": "J. Cole"
+  },
   {
     "sp_track_name": "Locked Away (feat. Adam Levine)",
     "sp_track_artist": "R. City"
@@ -345,7 +675,10 @@
     "sp_track_name": "Something Just Like This",
     "sp_track_artist": "The Chainsmokers"
   },
-  { "sp_track_name": "Apologize", "sp_track_artist": "Timbaland" },
+  {
+    "sp_track_name": "Apologize",
+    "sp_track_artist": "Timbaland"
+  },
   {
     "sp_track_name": "Bam Bam (feat. Ed Sheeran)",
     "sp_track_artist": "Camila Cabello"
@@ -354,7 +687,10 @@
     "sp_track_name": "Heat Waves (with iann dior)",
     "sp_track_artist": "Glass Animals"
   },
-  { "sp_track_name": "Blueberry Faygo", "sp_track_artist": "Lil Mosey" },
+  {
+    "sp_track_name": "Blueberry Faygo",
+    "sp_track_artist": "Lil Mosey"
+  },
   {
     "sp_track_name": "Look Back at It",
     "sp_track_artist": "A Boogie Wit da Hoodie"
@@ -363,18 +699,42 @@
     "sp_track_name": "Voodoo (with J Balvin & Tainy)",
     "sp_track_artist": "Badshah"
   },
-  { "sp_track_name": "Jugnu", "sp_track_artist": "Badshah" },
-  { "sp_track_name": "Paani Paani", "sp_track_artist": "Badshah" },
-  { "sp_track_name": "Domino", "sp_track_artist": "Jessie J" },
-  { "sp_track_name": "Sorry", "sp_track_artist": "Justin Bieber" },
-  { "sp_track_name": "Pepas", "sp_track_artist": "Farruko" },
-  { "sp_track_name": "Give Me A Kiss", "sp_track_artist": "Crash Adams" },
-  { "sp_track_name": "4K", "sp_track_artist": "El Alfa" },
+  {
+    "sp_track_name": "Jugnu",
+    "sp_track_artist": "Badshah"
+  },
+  {
+    "sp_track_name": "Paani Paani",
+    "sp_track_artist": "Badshah"
+  },
+  {
+    "sp_track_name": "Domino",
+    "sp_track_artist": "Jessie J"
+  },
+  {
+    "sp_track_name": "Sorry",
+    "sp_track_artist": "Justin Bieber"
+  },
+  {
+    "sp_track_name": "Pepas",
+    "sp_track_artist": "Farruko"
+  },
+  {
+    "sp_track_name": "Give Me A Kiss",
+    "sp_track_artist": "Crash Adams"
+  },
+  {
+    "sp_track_name": "4K",
+    "sp_track_artist": "El Alfa"
+  },
   {
     "sp_track_name": "Una Noche en Medell\u00edn",
     "sp_track_artist": "Cris Mj"
   },
-  { "sp_track_name": "Demons", "sp_track_artist": "Imagine Dragons" },
+  {
+    "sp_track_name": "Demons",
+    "sp_track_artist": "Imagine Dragons"
+  },
   {
     "sp_track_name": "Char Baj Gaye - Party Abhi Baaki Hai",
     "sp_track_artist": "Sachin-Jigar"
@@ -387,18 +747,42 @@
     "sp_track_name": "Legends Never Die",
     "sp_track_artist": "League of Legends"
   },
-  { "sp_track_name": "Beggin'", "sp_track_artist": "Madcon" },
-  { "sp_track_name": "We Will Rock You", "sp_track_artist": "Queen" },
-  { "sp_track_name": "Vivir Mi Vida", "sp_track_artist": "Marc Anthony" },
-  { "sp_track_name": "Blank Space", "sp_track_artist": "Taylor Swift" },
+  {
+    "sp_track_name": "Beggin'",
+    "sp_track_artist": "Madcon"
+  },
+  {
+    "sp_track_name": "We Will Rock You",
+    "sp_track_artist": "Queen"
+  },
+  {
+    "sp_track_name": "Vivir Mi Vida",
+    "sp_track_artist": "Marc Anthony"
+  },
+  {
+    "sp_track_name": "Blank Space",
+    "sp_track_artist": "Taylor Swift"
+  },
   {
     "sp_track_name": "Mr. Blue Sky",
     "sp_track_artist": "Electric Light Orchestra"
   },
-  { "sp_track_name": "Chantaje (feat. Maluma)", "sp_track_artist": "Shakira" },
-  { "sp_track_name": "Young & Alive", "sp_track_artist": "Bazzi" },
-  { "sp_track_name": "Firestone", "sp_track_artist": "Kygo" },
-  { "sp_track_name": "Are You With Me", "sp_track_artist": "Lost Frequencies" },
+  {
+    "sp_track_name": "Chantaje (feat. Maluma)",
+    "sp_track_artist": "Shakira"
+  },
+  {
+    "sp_track_name": "Young & Alive",
+    "sp_track_artist": "Bazzi"
+  },
+  {
+    "sp_track_name": "Firestone",
+    "sp_track_artist": "Kygo"
+  },
+  {
+    "sp_track_name": "Are You With Me",
+    "sp_track_artist": "Lost Frequencies"
+  },
   {
     "sp_track_name": "Khaabon Ke Parinday",
     "sp_track_artist": "Alyssa Mendonsa"
@@ -407,82 +791,250 @@
     "sp_track_name": "lovely (with Khalid)",
     "sp_track_artist": "Billie Eilish"
   },
-  { "sp_track_name": "Perfect", "sp_track_artist": "One Direction" },
-  { "sp_track_name": "Steal My Girl", "sp_track_artist": "One Direction" },
-  { "sp_track_name": "One Last Time", "sp_track_artist": "Ariana Grande" },
-  { "sp_track_name": "Unforgettable", "sp_track_artist": "French Montana" },
-  { "sp_track_name": "BELIEVE IT", "sp_track_artist": "PARTYNEXTDOOR" },
-  { "sp_track_name": "WALK IN THE PARK", "sp_track_artist": "Jack Harlow" },
-  { "sp_track_name": "Faded", "sp_track_artist": "Alan Walker" },
-  { "sp_track_name": "Unchi Talavdi", "sp_track_artist": "Santvani Trivedi" },
+  {
+    "sp_track_name": "Perfect",
+    "sp_track_artist": "One Direction"
+  },
+  {
+    "sp_track_name": "Steal My Girl",
+    "sp_track_artist": "One Direction"
+  },
+  {
+    "sp_track_name": "One Last Time",
+    "sp_track_artist": "Ariana Grande"
+  },
+  {
+    "sp_track_name": "Unforgettable",
+    "sp_track_artist": "French Montana"
+  },
+  {
+    "sp_track_name": "BELIEVE IT",
+    "sp_track_artist": "PARTYNEXTDOOR"
+  },
+  {
+    "sp_track_name": "WALK IN THE PARK",
+    "sp_track_artist": "Jack Harlow"
+  },
+  {
+    "sp_track_name": "Faded",
+    "sp_track_artist": "Alan Walker"
+  },
+  {
+    "sp_track_name": "Unchi Talavdi",
+    "sp_track_artist": "Santvani Trivedi"
+  },
   {
     "sp_track_name": "Careless Whisper - Remastered",
     "sp_track_artist": "George Michael"
   },
-  { "sp_track_name": "Let Her Go", "sp_track_artist": "Passenger" },
-  { "sp_track_name": "The Git Up", "sp_track_artist": "Blanco Brown" },
-  { "sp_track_name": "Cruise", "sp_track_artist": "Florida Georgia Line" },
-  { "sp_track_name": "Stay With Me", "sp_track_artist": "Sam Smith" },
-  { "sp_track_name": "All of Me", "sp_track_artist": "John Legend" },
-  { "sp_track_name": "Shallow", "sp_track_artist": "Lady Gaga" },
-  { "sp_track_name": "Take Me To Church", "sp_track_artist": "Hozier" },
-  { "sp_track_name": "Feeling Good", "sp_track_artist": "Michael Bubl\u00e9" },
-  { "sp_track_name": "A Lovely Night", "sp_track_artist": "Ryan Gosling" },
-  { "sp_track_name": "Skyfall", "sp_track_artist": "Adele" },
-  { "sp_track_name": "Crashing (feat. Bahari)", "sp_track_artist": "ILLENIUM" },
-  { "sp_track_name": "Temperature", "sp_track_artist": "Sean Paul" },
-  { "sp_track_name": "Smack That", "sp_track_artist": "Akon" },
-  { "sp_track_name": "The Lazy Song", "sp_track_artist": "Bruno Mars" },
-  { "sp_track_name": "Locked out of Heaven", "sp_track_artist": "Bruno Mars" },
-  { "sp_track_name": "Treasure", "sp_track_artist": "Bruno Mars" },
-  { "sp_track_name": "PERSIAN RUGS", "sp_track_artist": "PARTYNEXTDOOR" },
-  { "sp_track_name": "Set Fire to the Rain", "sp_track_artist": "Adele" },
-  { "sp_track_name": "", "sp_track_artist": "" },
-  { "sp_track_name": "Dandelions", "sp_track_artist": "Ruth B." },
-  { "sp_track_name": "Saint-Tropez", "sp_track_artist": "Post Malone" },
-  { "sp_track_name": "Let Go", "sp_track_artist": "Aaron May" },
-  { "sp_track_name": "Don't Start Now", "sp_track_artist": "Dua Lipa" },
-  { "sp_track_name": "Summertime Sadness", "sp_track_artist": "Lana Del Rey" },
-  { "sp_track_name": "Under The Influence", "sp_track_artist": "Chris Brown" },
+  {
+    "sp_track_name": "Let Her Go",
+    "sp_track_artist": "Passenger"
+  },
+  {
+    "sp_track_name": "The Git Up",
+    "sp_track_artist": "Blanco Brown"
+  },
+  {
+    "sp_track_name": "Cruise",
+    "sp_track_artist": "Florida Georgia Line"
+  },
+  {
+    "sp_track_name": "Stay With Me",
+    "sp_track_artist": "Sam Smith"
+  },
+  {
+    "sp_track_name": "All of Me",
+    "sp_track_artist": "John Legend"
+  },
+  {
+    "sp_track_name": "Shallow",
+    "sp_track_artist": "Lady Gaga"
+  },
+  {
+    "sp_track_name": "Take Me To Church",
+    "sp_track_artist": "Hozier"
+  },
+  {
+    "sp_track_name": "Feeling Good",
+    "sp_track_artist": "Michael Bubl\u00e9"
+  },
+  {
+    "sp_track_name": "A Lovely Night",
+    "sp_track_artist": "Ryan Gosling"
+  },
+  {
+    "sp_track_name": "Skyfall",
+    "sp_track_artist": "Adele"
+  },
+  {
+    "sp_track_name": "Crashing (feat. Bahari)",
+    "sp_track_artist": "ILLENIUM"
+  },
+  {
+    "sp_track_name": "Temperature",
+    "sp_track_artist": "Sean Paul"
+  },
+  {
+    "sp_track_name": "Smack That",
+    "sp_track_artist": "Akon"
+  },
+  {
+    "sp_track_name": "The Lazy Song",
+    "sp_track_artist": "Bruno Mars"
+  },
+  {
+    "sp_track_name": "Locked out of Heaven",
+    "sp_track_artist": "Bruno Mars"
+  },
+  {
+    "sp_track_name": "Treasure",
+    "sp_track_artist": "Bruno Mars"
+  },
+  {
+    "sp_track_name": "PERSIAN RUGS",
+    "sp_track_artist": "PARTYNEXTDOOR"
+  },
+  {
+    "sp_track_name": "Set Fire to the Rain",
+    "sp_track_artist": "Adele"
+  },
+  {
+    "sp_track_name": "",
+    "sp_track_artist": ""
+  },
+  {
+    "sp_track_name": "Dandelions",
+    "sp_track_artist": "Ruth B."
+  },
+  {
+    "sp_track_name": "Saint-Tropez",
+    "sp_track_artist": "Post Malone"
+  },
+  {
+    "sp_track_name": "Let Go",
+    "sp_track_artist": "Aaron May"
+  },
+  {
+    "sp_track_name": "Don't Start Now",
+    "sp_track_artist": "Dua Lipa"
+  },
+  {
+    "sp_track_name": "Summertime Sadness",
+    "sp_track_artist": "Lana Del Rey"
+  },
+  {
+    "sp_track_name": "Under The Influence",
+    "sp_track_artist": "Chris Brown"
+  },
   {
     "sp_track_name": "Take My Breath - Single Version",
     "sp_track_artist": "The Weeknd"
   },
-  { "sp_track_name": "Don't Play", "sp_track_artist": "Anne-Marie" },
+  {
+    "sp_track_name": "Don't Play",
+    "sp_track_artist": "Anne-Marie"
+  },
   {
     "sp_track_name": "One Man Can Change The World",
     "sp_track_artist": "Big Sean"
   },
-  { "sp_track_name": "Smoke And Mirrors", "sp_track_artist": "Gotye" },
-  { "sp_track_name": "Short Change Hero", "sp_track_artist": "The Heavy" },
-  { "sp_track_name": "Rapture", "sp_track_artist": "Tom Walker" },
-  { "sp_track_name": "Love Yourself", "sp_track_artist": "Justin Bieber" },
-  { "sp_track_name": "Less Than Zero", "sp_track_artist": "The Weeknd" },
-  { "sp_track_name": "16", "sp_track_artist": "Baby Keem" },
-  { "sp_track_name": "Love & Hate", "sp_track_artist": "Michael Kiwanuka" },
-  { "sp_track_name": "Man on a Mission", "sp_track_artist": "Oh The Larceny" },
-  { "sp_track_name": "Greenback Boogie", "sp_track_artist": "Ima Robot" },
-  { "sp_track_name": "Conquer", "sp_track_artist": "RIVVRS" },
-  { "sp_track_name": "Fickle Game", "sp_track_artist": "Amber Run" },
-  { "sp_track_name": "In the Air Tonight", "sp_track_artist": "Phil Collins" },
-  { "sp_track_name": "Can't Stop", "sp_track_artist": "Earl St. Clair" },
-  { "sp_track_name": "Feel It Still", "sp_track_artist": "Portugal. The Man" },
-  { "sp_track_name": "Radioactive", "sp_track_artist": "Imagine Dragons" },
-  { "sp_track_name": "Natural", "sp_track_artist": "Imagine Dragons" },
+  {
+    "sp_track_name": "Smoke And Mirrors",
+    "sp_track_artist": "Gotye"
+  },
+  {
+    "sp_track_name": "Short Change Hero",
+    "sp_track_artist": "The Heavy"
+  },
+  {
+    "sp_track_name": "Rapture",
+    "sp_track_artist": "Tom Walker"
+  },
+  {
+    "sp_track_name": "Love Yourself",
+    "sp_track_artist": "Justin Bieber"
+  },
+  {
+    "sp_track_name": "Less Than Zero",
+    "sp_track_artist": "The Weeknd"
+  },
+  {
+    "sp_track_name": "16",
+    "sp_track_artist": "Baby Keem"
+  },
+  {
+    "sp_track_name": "Love & Hate",
+    "sp_track_artist": "Michael Kiwanuka"
+  },
+  {
+    "sp_track_name": "Man on a Mission",
+    "sp_track_artist": "Oh The Larceny"
+  },
+  {
+    "sp_track_name": "Greenback Boogie",
+    "sp_track_artist": "Ima Robot"
+  },
+  {
+    "sp_track_name": "Conquer",
+    "sp_track_artist": "RIVVRS"
+  },
+  {
+    "sp_track_name": "Fickle Game",
+    "sp_track_artist": "Amber Run"
+  },
+  {
+    "sp_track_name": "In the Air Tonight",
+    "sp_track_artist": "Phil Collins"
+  },
+  {
+    "sp_track_name": "Can't Stop",
+    "sp_track_artist": "Earl St. Clair"
+  },
+  {
+    "sp_track_name": "Feel It Still",
+    "sp_track_artist": "Portugal. The Man"
+  },
+  {
+    "sp_track_name": "Radioactive",
+    "sp_track_artist": "Imagine Dragons"
+  },
+  {
+    "sp_track_name": "Natural",
+    "sp_track_artist": "Imagine Dragons"
+  },
   {
     "sp_track_name": "Only Love Can Hurt Like This",
     "sp_track_artist": "Paloma Faith"
   },
-  { "sp_track_name": "Let Her Go", "sp_track_artist": "Passenger" },
+  {
+    "sp_track_name": "Let Her Go",
+    "sp_track_artist": "Passenger"
+  },
   {
     "sp_track_name": "Good Life (with G-Eazy & Kehlani)",
     "sp_track_artist": "G-Eazy"
   },
-  { "sp_track_name": "Way down We Go", "sp_track_artist": "KALEO" },
-  { "sp_track_name": "Life is a Highway", "sp_track_artist": "Rascal Flatts" },
-  { "sp_track_name": "STATS", "sp_track_artist": "Baby Keem" },
-  { "sp_track_name": "Bones", "sp_track_artist": "Imagine Dragons" },
-  { "sp_track_name": "how deep?", "sp_track_artist": "Tai Verdes" },
+  {
+    "sp_track_name": "Way down We Go",
+    "sp_track_artist": "KALEO"
+  },
+  {
+    "sp_track_name": "Life is a Highway",
+    "sp_track_artist": "Rascal Flatts"
+  },
+  {
+    "sp_track_name": "STATS",
+    "sp_track_artist": "Baby Keem"
+  },
+  {
+    "sp_track_name": "Bones",
+    "sp_track_artist": "Imagine Dragons"
+  },
+  {
+    "sp_track_name": "how deep?",
+    "sp_track_artist": "Tai Verdes"
+  },
   {
     "sp_track_name": "Until I Found You",
     "sp_track_artist": "Stephen Sanchez"
@@ -491,8 +1043,20 @@
     "sp_track_name": "Enemy - From the series Arcane League of Legends",
     "sp_track_artist": "Imagine Dragons"
   },
-  { "sp_track_name": "How You Like Me Now", "sp_track_artist": "The Heavy" },
-  { "sp_track_name": "Mi Amor", "sp_track_artist": "Sharn" },
-  { "sp_track_name": "Lonely", "sp_track_artist": "Akon" },
-  { "sp_track_name": "People", "sp_track_artist": "Libianca" }
+  {
+    "sp_track_name": "How You Like Me Now",
+    "sp_track_artist": "The Heavy"
+  },
+  {
+    "sp_track_name": "Mi Amor",
+    "sp_track_artist": "Sharn"
+  },
+  {
+    "sp_track_name": "Lonely",
+    "sp_track_artist": "Akon"
+  },
+  {
+    "sp_track_name": "People",
+    "sp_track_artist": "Libianca"
+  }
 ]
